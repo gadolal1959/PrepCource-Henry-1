@@ -1,2 +1,1 @@
-# PrepCource-Henry-1
-Repositorio de prueba modulo 2 PrepCource Henry
+Este repositorio es una prueba de  como crearlo y como modificarlo en la computadora.
